@@ -64,4 +64,4 @@ const data = findingBadData([-4, -9, -5, -33, -55 ])
   return total;
 }
 const totalGems = gemsToDiamond( 20, 200, 50);
-console.log(totalGems)
+//console.log(totalGems)
